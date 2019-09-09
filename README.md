@@ -22,6 +22,6 @@
 - Data is stored in C:\Windows\Temp\DemoTracer\
 # NOTE
 - We will update the tracer software, whenever kernel version changes, so that the researchers/industrialists can create updated dataset always.
-- Upto 18362.175 version, dataset is already uploaded and is available for download.
+- For 18362.175 version, dataset is already uploaded and is available for download.
 - If any request is there, you can ping me on this github account.
 
